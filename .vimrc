@@ -350,7 +350,7 @@ nmap <leader>rr :YcmCompleter RefactorRename
 "--------------------------------------------------
 " General options
 " Toggle terminal below :)
-nmap <leader>tr :below term<CR> 
+nmap <leader>:below term<CR>
 
 "--------------------------------------------------
 " General options
@@ -590,7 +590,6 @@ set noswapfile
 
 " Do not add eol at the end of file.
 set noeol
-
 
 "--------------------------------------------------
 " Diff Options
